@@ -1,0 +1,8 @@
+torch
+numpy
+scipy
+matplotlib
+qiskit
+tqdm
+numba
+sys
